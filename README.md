@@ -48,5 +48,5 @@ This is a demo site provided by WebScraper.io for practicing scraping techniques
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/laptop-product-scraper.git
-cd laptop-product-scraper
+git clone https://github.com/MdAbdullah5/AGHireAssignment
+cd AGHireAssignment
